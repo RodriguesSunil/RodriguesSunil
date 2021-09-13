@@ -2,7 +2,7 @@
 - 👀 I’m studying Introduction to IT
 - 🌱 I’m currently learning new skills in IT and need all the help there is
 - 💞️ I’m looking to collaborate on new technologies and project ideas
-- 📫 How to reach me on my student mail
+- 📫 Reach me on s3923382@student.rmit.edu.au
 
 <!---
 RodriguesSunil/RodriguesSunil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
